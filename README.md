@@ -4,7 +4,7 @@
   </div>
   
 - 👀 I’m interested in finance📊, trading📈, crytocurrencies💰 and training with HIIT programs🎽
-- 🌱 I’m currently learning HTML, CSS, JS, REACT, SQL AND PYTHON
+- 🌱 Always learning new things 👨‍💻
 - 💞️ I’m looking to collaborate on projects i´m interest in 
 - 📫 How to reach me frakodev.code@gmail.com
 
