@@ -1,82 +1,150 @@
 <div id="header" align="center">
-    <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="400px" />
-    <h1 align="center">👋 Hi I´m Francisco Orozco</h1>
-  </div>
-  
-- 👀 I’m interested in finance📊, trading📈, crytocurrencies💰 and training with HIIT programs🎽
-- 🌱 Always learning new things 👨‍💻
-- 💞️ I’m looking to collaborate on projects i´m interest in 
-- 📫 How to reach me frakodev.code@gmail.com
+  <h1>Francisco Orozco</h1>
+  <h3>Full Stack Engineer · AI-Driven & Agentic Systems</h3>
+  <p>
+    <em>I build production software where LLMs are part of the architecture — not a demo.</em>
+  </p>
+  <p>
+    <a href="https://frakodev.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-frakodev.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/franciscorozco/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:frakodev.code@gmail.com"><img src="https://img.shields.io/badge/Email-frakodev.code@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Based%20in-Caracas,%20VE%20(UTC%E2%88%924)-334155?style=flat-square" alt="Location" />
+    <img src="https://img.shields.io/badge/Open%20to-Remote%20%7C%20International-16a34a?style=flat-square" alt="Availability" />
+    <img src="https://img.shields.io/badge/English-C2%20(EF%20SET%2072%2F100)-6366f1?style=flat-square" alt="English level" />
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/franciscorozco/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscoorozco" height="30" width="40" /> 
+---
+
+## About
+
+Full Stack Developer with production experience building ERP modules, internal products and client-facing apps with **TypeScript, React/Next.js, NestJS, Python and PostgreSQL**.
+
+Today my work is focused on **AI-driven engineering**: designing systems where models call tools, read from real data, run multi-step workflows and are evaluated, observed and cost-controlled like any other critical service.
+
+- 🤖 Building **agentic systems**: tool/function calling, RAG, memory, multi-step and multi-agent workflows
+- 🧱 Backend-first mindset: clean APIs, dependency injection, typed contracts, unit testing, Docker
+- 🔍 Interested in the boring-but-critical part of AI products: **evaluation, guardrails, traceability, observability and token cost**
+- 🌎 Working remotely with distributed teams · Spanish (native) / English (C2)
+- 📫 Reach me at **[frakodev.code@gmail.com](mailto:frakodev.code@gmail.com)**
+
+---
+
+## What I focus on
+
+| Area | What that means in practice |
+| --- | --- |
+| **Agentic workflows** | Agents that use external tools, APIs and databases to complete multi-step tasks with error handling and retries |
+| **RAG systems** | Chunking, embeddings, vector search and grounded answers with source attribution |
+| **LLM integration** | Provider APIs (OpenAI, Gemini, Claude), structured outputs, function calling, prompt design |
+| **Backend & APIs** | NestJS / Flask services, REST APIs, PostgreSQL schemas, ORMs, auth |
+| **Full-stack product** | Next.js + React front ends wired to AI back ends, from Figma to deploy |
+| **Reliability** | Unit testing, Docker, CI/CD, logging, evaluation of model outputs |
+
+---
+
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="36" />
 </p>
 
+**AI & Agents**
 
-<h3 align="left">Front-End Languages:</h3>
-<p align="left">  
-    <img src="https://svgl.vercel.app/library/html5.svg" alt="html" width="40" height="40"/>
-    <img src="https://svgl.vercel.app/library/css.svg" alt="css" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://svgl.vercel.app/library/typescript.svg" alt="typescript" width="40" height="40"/>
-      </p>
+<p>
+  <img src="https://img.shields.io/badge/LLM%20APIs-OpenAI%20%7C%20Gemini%20%7C%20Claude-412991?style=flat-square" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/Tool%20%2F%20Function%20Calling-1f2937?style=flat-square" alt="Tool calling" />
+  <img src="https://img.shields.io/badge/RAG%20%26%20Embeddings-1f2937?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20Search-1f2937?style=flat-square" alt="Vector search" />
+  <img src="https://img.shields.io/badge/Agent%20Evaluation-1f2937?style=flat-square" alt="Evaluation" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1f2937?style=flat-square" alt="Prompt engineering" />
+</p>
 
-<h3 align="left">Front-End Frameworks:</h3>
-<p align="left">  
-    <img src="https://svgl.vercel.app/library/react.svg" alt="react" width="40" height="40"/>
-    <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="next" width="40" height="40"/>
-      </p>
+**Frontend**
 
-<h3 align="left">Front-End Libraries:</h3>
-<p align="left">  
-    <img src="https://svgl.app/library/redux.svg" alt="redux" width="40" height="40"/>
-    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="zustand" width="40" height="40"/>
-    <img src="https://svgl.app/library/jquery_dark.svg" alt="jquery" width="40" height="40"/>
-    <img src="https://svgl.app/library/reactrouter.svg" alt="react router" width="40" height="40"/>
-      </p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" height="36" />
+</p>
 
-<h3 align="left">CSS Frameworks:</h3>
-<p align="left">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="auto" height="30"/>
-    <img src="https://svgl.app/library/bootstrap.svg" alt="bootstrap" width="auto" height="30"/>
-    <img src="https://svgl.app/library/shadcn-ui_dark.svg" alt="shadcn" width="auto" height="30"/>
-      </p>
+**Backend & Data**
 
-<h3 align="left">Design Systems:</h3>
-<p align="left">  
-    <img src="https://svgl.app/library/materialui.svg" alt="mui" width="auto" height="30"/>
-      </p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="36" />
+</p>
 
-<h3 align="left">Front-End Tools:</h3>
-<p align="left">  
-    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3236765/figma-icon-md.png" alt="figma" width="auto" height="30"/>
-      </p>
+**Infra & Tooling**
 
-<h3 align="left">Back-End Languages:</h3>
-<p align="left">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </p>    
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" height="36" />
+</p>
 
-<h3 align="left">Back-End Frameworks:</h3>
-<p align="left">  
-    <img src="https://svgl.vercel.app/library/flask-dark.svg" alt="flask" width="40" height="40"/> 
-    <img src="https://svgl.app/library/django.svg" alt="django" width="40" height="40"/> 
-      </p>
+<!-- ---
 
-<h3 align="left">Back-End Libraries:</h3>
-<p align="left">  
-    <img src="https://svgl.app/library/jwt.svg" alt="jwt" width="40" height="40"/> 
-      </p>
+## Featured work
 
-<h3 align="left">Database Management System:</h3>
-<p align="left">  
-    <img src="https://svgl.vercel.app/library/postgresql.svg" alt="postgresql" width="40" height="40"/>
-      </p>
-    
-![rfyiamcool's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=frako23&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-    
+> Replace the placeholders below with your own repos. Keep the same structure: **problem → what it does → stack → what makes it engineering, not a demo.**
+
+### 🧠 [Project name](https://github.com/frako23)
+**Problem** · What real pain it solves.
+**What it does** · Agent/workflow behavior in one or two lines.
+**Stack** · TypeScript · NestJS · PostgreSQL · LLM provider · Docker
+**Engineering notes** · Tool calling, error handling, output evaluation, logging, tests.
+
+### 🔎 [Project name](https://github.com/frako23)
+**Problem** · …
+**What it does** · …
+**Stack** · Python · FastAPI/Flask · Vector store · Next.js
+**Engineering notes** · Retrieval strategy, source citations, latency and cost per query.
+
+### ⚙️ [Project name](https://github.com/frako23)
+**Problem** · …
+**What it does** · …
+**Stack** · …
+**Engineering notes** · …
+
+--- -->
+
+## Currently
+
+- 🔨 Building agentic services with tool use, persisted memory and traceable execution
+- 📚 Going deeper into evaluation of LLM systems, guardrails and production observability
+- 🤝 Open to remote roles as **AI Engineer / Agentic Engineer / Backend or Full Stack Engineer**
+
+---
+
+## Experience highlights
+
+- **IT Development Lead** — Atenas Grupo Consultor · led development teams and delivered an internal product with React, TailwindCSS and Zustand
+- **Full Stack Developer** — Empathy AI · integrated AI APIs (OpenAI, Gemini), built Next.js interfaces and backend APIs, worked with Azure CosmosDB and Blob Storage
+- **Web Developer** — Kentron Sistemas de Información · contributed to the migration of *Kerux*, an ERP used by SENIAT (Venezuelan Ministry of Finance)
+
+---
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frako23&theme=tokyo-night&hide_border=true)
+
 <!---
 frako23/frako23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
